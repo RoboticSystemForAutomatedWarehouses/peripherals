@@ -1,0 +1,47 @@
+{
+  "success": true,
+  "result": [
+    {
+      "id": 1,
+      "isOut": false,
+      "x": 1,
+      "y": 0,
+      "z": 0
+    },
+    {
+      "id": 2,
+      "isOut": false,
+      "x": 1,
+      "y": 0,
+      "z": 1
+    },
+    {
+      "id": 3,
+      "isOut": true,
+      "x": 1,
+      "y": 0,
+      "z": 2
+    },
+    {
+      "id": 4,
+      "isOut": false,
+      "x": 1,
+      "y": 1,
+      "z": 0
+    },
+    {
+      "id": 5,
+      "isOut": true,
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    {
+      "id": 6,
+      "isOut": true,
+      "x": 1,
+      "y": 1,
+      "z": 2
+    }
+  ]
+}
